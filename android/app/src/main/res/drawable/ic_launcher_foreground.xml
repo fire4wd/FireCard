@@ -1,0 +1,48 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Flame Body -->
+    <path
+        android:fillColor="#FF6D00"
+        android:pathData="M54,8C54,8 22,45 22,72C22,90 36,102 54,102C72,102 86,90 86,72C86,45 54,8 54,8Z" />
+        
+    <!-- Inner Flame Body -->
+    <path
+        android:fillColor="#FFAB40"
+        android:pathData="M54,18C54,18 28,50 28,72C28,86 40,96 54,96C68,96 80,86 80,72C80,50 54,18 54,18Z" />
+        
+    <!-- Eyes -->
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M42,68a4.5,4.5 0 1,1 -9,0a4.5,4.5 0 1,1 9,0" />
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M75,68a4.5,4.5 0 1,1 -9,0a4.5,4.5 0 1,1 9,0" />
+        
+    <!-- Eye Highlights -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M39.5,65.5a1.5,1.5 0 1,1 -3,0a1.5,1.5 0 1,1 3,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M72.5,65.5a1.5,1.5 0 1,1 -3,0a1.5,1.5 0 1,1 3,0" />
+    
+    <!-- Mouth -->
+    <path
+        android:strokeColor="#1A1A1A"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M48,82Q54,87 60,82" />
+        
+    <!-- Rosy Cheeks -->
+    <path
+        android:fillColor="#FF8A65"
+        android:pathData="M32,75a4,4 0 1,1 -8,0a4,4 0 1,1 8,0" />
+    <path
+        android:fillColor="#FF8A65"
+        android:pathData="M84,75a4,4 0 1,1 -8,0a4,4 0 1,1 8,0" />
+        
+</vector>

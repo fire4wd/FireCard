@@ -1,0 +1,8 @@
+{
+  "name": "FireCard",
+  "description": "Local-first Android & Web business card scanner. Uses 100% private local OCR (Tesseract.js) and IndexedDB storage. No cloud integration required.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
